@@ -1,0 +1,1 @@
+I asked my agent to rename one variable, and it renamed it in 47 files, the README, and my commit message.
